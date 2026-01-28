@@ -11,7 +11,7 @@
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
     "@reduxjs/toolkit": "^2.4.0",
-    "expo": "~52.0.15",
+    "expo": "~54.0.32",
     "expo-blur": "~14.0.1",
     "expo-constants": "~17.0.3",
     "expo-font": "~13.0.1",
